@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cooperr2014](https://github.com/Cooperr2014)
 
-- 📝 I regularly write articles on [shareofficee.sedaghat.ir](shareofficee.sedaghat.ir)
+- 📝 I regularly write articles on [sadeghsedaghat.ir](sadeghsedaghat.ir)
 
 - 💬 Ask me about **Python and html/css**
 
